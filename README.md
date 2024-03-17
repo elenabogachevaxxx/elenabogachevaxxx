@@ -5,10 +5,14 @@
 -  I’m looking to collaborate on machine learning projects for medical field, pharmacy and natural sciencies
 -  How to reach me - write on email
 - I speak English(B2) and German(C1)
-  ###Skills
-  -<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  ### Skills
+ - Python
+ - Excel
+ - PostgreSQL
+ - Mathplotlib, Seaborn, Scikit-learn
+ - A/B testing
+ - Bootstrap
+ - Mashine Learning
    
 
 
