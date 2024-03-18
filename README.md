@@ -1,15 +1,15 @@
 ### About me
 -  Hi, I’m Elena Bogacheva
--  I’m interested in data science, medicine
--  I’m currently learning data science
+-  I’m interested in data science, data analitics, medicine
+-  I’m currently finishing studing data science
 -  I’m looking to collaborate on machine learning projects for medical field, pharmacy and natural sciencies
 -  How to reach me - write on email
 - I speak English(B2) and German(C1)
   ### Skills
  - Python
- - Excel
+ - Pandas, Mathplotlib, Seaborn, Scikit-learn
  - PostgreSQL
- - Mathplotlib, Seaborn, Scikit-learn
+ - Excel 
  - A/B testing
  - Bootstrap
  - Mashine Learning
