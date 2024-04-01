@@ -13,6 +13,7 @@
  - A/B testing
  - Bootstrap
  - Mashine Learning
+ - Natural Language Processing
    
 
 
