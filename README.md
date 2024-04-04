@@ -12,9 +12,9 @@
  - Excel 
  - A/B testing
  - Bootstrap
- - Mashine Learning
+ - Maсhine Learning
  - Natural Language Processing
-   
+ - Computer vision  
 
 
 
