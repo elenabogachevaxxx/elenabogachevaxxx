@@ -1,7 +1,7 @@
 ### About me
 -  Hi, I’m Elena Bogacheva
 -  I’m interested in data science, data analitics, medicine
--  I  finished  data science cource on Yandex
+-  I completed my study in Data Science in May 2024.
 -  I’m looking to collaborate on machine learning projects for medical field, pharmacy and natural sciencies
 -  How to reach me - write on email
 - I speak English(B2) and German(C1)
@@ -13,6 +13,7 @@
  - A/B testing
  - Bootstrap
  - Maсhine Learning
+ - Neural Networks
  - Natural Language Processing
  - Computer vision  
 
